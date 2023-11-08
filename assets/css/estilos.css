@@ -13,8 +13,8 @@ body {
   
   /* Mis trabajos */
   
-  #Mis-trabajos .image-top {
-    height: 250px;
+  #Portafolio .image-top {
+    height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
